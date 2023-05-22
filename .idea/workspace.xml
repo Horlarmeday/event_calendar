@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df6ce22-a646-4de7-ad0f-d005287b94b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DjAk1afnbSjfql9F1B2HcEgdVE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/package/node_modules/jest" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager" selected="Jest.GET /api/calendar (1)">
+    <configuration name="Available Slots (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/package/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/package" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/package/server/api/calendar/calendar.service.test.js" />
+      <test-names>
+        <test-name value="Available Slots" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Available Slots (2)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/package/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/package" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/package/server/api/calendar/calendar.slots.test.js" />
+      <test-names>
+        <test-name value="Available Slots" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="GET /api/calendar (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/package/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/package" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/package/server/api/calendar/calendar.test.js" />
+      <test-names>
+        <test-name value="GET /api/calendar" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="GET /api/calendar" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/package/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/package" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/package/server/api/calendar.test.js" />
+      <test-names>
+        <test-name value="GET /api/calendar" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="GET /api/calendar.returns timeslots" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/package/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/package" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/package/server/api/calendar/calendar.test.js" />
+      <test-names>
+        <test-name value="GET /api/calendar" />
+        <test-name value="returns timeslots" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.GET /api/calendar (1)" />
+        <item itemvalue="Jest.GET /api/calendar.returns timeslots" />
+        <item itemvalue="Jest.Available Slots (2)" />
+        <item itemvalue="Jest.Available Slots (1)" />
+        <item itemvalue="Jest.GET /api/calendar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df6ce22-a646-4de7-ad0f-d005287b94b0" name="Default Changelist" comment="" />
+      <created>1661202259773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661202259773</updated>
+      <workItem from="1661202266667" duration="7073000" />
+      <workItem from="1661323413046" duration="14575000" />
+      <workItem from="1661407121409" duration="15675000" />
+      <workItem from="1661444153247" duration="8220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1867" height="327" key="GridCell.Tab.0.bottom" timestamp="1661453176047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1661453176047" />
+    <state width="1867" height="327" key="GridCell.Tab.0.center" timestamp="1661453176047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1661453176047" />
+    <state width="1867" height="327" key="GridCell.Tab.0.left" timestamp="1661453176047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1661453176047" />
+    <state width="1867" height="327" key="GridCell.Tab.0.right" timestamp="1661453176047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1661453176047" />
+    <state x="524" y="5" width="870" height="1034" key="search.everywhere.popup" timestamp="1661418401724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="5" width="870" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1661418401724" />
+  </component>
+</project>
